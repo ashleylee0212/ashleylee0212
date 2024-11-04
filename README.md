@@ -1,16 +1,12 @@
-## Hi there 👋
+### 專長
+🏊: 游泳 \
+🏃: 跑步 
 
-<!--
-**ashleylee0212/ashleylee0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 經歷
+🥇: 輔仁大學金融國企 學士（在學中）\
+🥈: Toefl 89 \
+🥉: 國泰證券實習中 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 聯絡方式
+📞: 0970022258 \
+📫: ashleylee0212@gmail.com
